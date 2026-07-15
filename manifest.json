@@ -1,9 +1,29 @@
 {
   "Jumper": [
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-asset-1.png",
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-asset-2.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-lobby-asset-2.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-game-asset-1.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-game-asset-2.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-result-asset-1.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-result-asset-2.png"
   ],
   "Shuffle": [
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-asset-1.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-game-asset-1.png"
+     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-game-asset-2.png"
+     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-game-asset-3.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-lobby-asset-1.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-result-asset-1.png"
+  ],
+   "Overlay_Lobby": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/overlay-lobby-asset-1.png"
+  
+  ],
+  "Overlay_Lobby": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/overlay-game-asset-1.png"
+  
+  ],
+  "Overlay_Result": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/overlay-result-asset-1.png"
+  
   ]
 }
