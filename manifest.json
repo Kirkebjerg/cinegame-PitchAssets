@@ -20,8 +20,8 @@
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/quizshow-result-asset-1.png"
   ],
   "Shooter": [
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Shooter-game-asset-1.png",
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Shooter-game-asset-2.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shooter-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shooter-game-asset-2.png"
   ],
   "Shuffle": [
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-game-asset-1.png",
@@ -34,14 +34,20 @@
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/simplequiz-result-asset-1.png"
   ],
   "Simon": [
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Simon-lobby-asset-1.png",
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Simon-game-asset-1.png",
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Simon-result-asset-1.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/simon-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/simon-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/simon-result-asset-1.png"
   ],
   "SwipeHero": [
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/swipehero-lobby-asset-1.png",
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/swipehero-game-asset-1.png",
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/swipehero-result-asset-1.png"
+  ],
+  "WhackAMole": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/whackamole-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/whackamole-lobby-asset-2.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/whackamole-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/whackamole-result-asset-1.png"
   ],
   "WheelOfFortune": [
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/wheeloffortune-lobby-asset-1.png",
