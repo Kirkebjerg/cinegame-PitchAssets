@@ -1,19 +1,59 @@
 {
+  "Collector": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/collector-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/collector-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/collector-result-asset-1.png"
+  ],
   "Jumper": [
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-lobby-asset-1.png",
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-lobby-asset-2.png",
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-game-asset-1.png",
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-game-asset-2.png",
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-result-asset-1.png",
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-result-asset-2.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-game-asset-3.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-game-asset-4.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-game-asset-5.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/jumper-result-asset-1.png"
+  ],
+  "QuizShow": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/quizshow-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/quizshow-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/quizshow-result-asset-1.png"
+  ],
+  "Shooter": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Shooter-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Shooter-game-asset-2.png"
   ],
   "Shuffle": [
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-game-asset-1.png",
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-lobby-asset-1.png",
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-result-asset-1.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-game-asset-2.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/shuffle-game-asset-3.png"
+  ],
+  "SimpleQuiz": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/simplequiz-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/simplequiz-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/simplequiz-result-asset-1.png"
+  ],
+  "Simon": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Simon-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Simon-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/Simon-result-asset-1.png"
+  ],
+  "SwipeHero": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/swipehero-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/swipehero-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/swipehero-result-asset-1.png"
+  ],
+  "WheelOfFortune": [
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/wheeloffortune-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/wheeloffortune-lobby-asset-2.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/wheeloffortune-game-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/wheeloffortune-game-asset-2.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/wheeloffortune-result-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/wheeloffortune-result-asset-2.png"
   ],
   "Overlay_Lobby": [
-    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/overlay-lobby-asset-1.png"
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/overlay-lobby-asset-1.png",
+    "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/overlay-lobby-asset-2.png"
   ],
   "Overlay_Game": [
     "https://Kirkebjerg.github.io/cinegame-PitchAssets/images/overlay-game-asset-1.png",
